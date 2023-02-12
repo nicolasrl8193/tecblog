@@ -1,0 +1,130 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.anchor {
+	color: #fff;
+	text-decoration: none;
+}
+
+.anchor:hover {
+	text-decoration: underline;
+}
+
+.anchor:link, .anchor:visited {
+	color: #f7b600;
+}
+
+.aside {
+	width: 240px;
+}
+
+.aside-box {
+	background: white;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.aside-publication {
+	border-bottom: 1px dotted #ccc;
+	font-size: 0.8em;
+	list-style: none;
+	padding: 0.4em;
+}
+
+.aside-title {
+	color: #565656;
+	background: #CCC;
+	padding: 5px;
+}
+
+.body {
+	background: #e6e6e6;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.brand {
+	display: flex;
+	justify-content: center;
+	padding: 1em;
+}
+
+.brand-text {
+	color: #4e4e4e;
+	font-size: 2.5em;
+}
+
+.container {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 auto;
+	padding: 1em 1em 0 1em;
+	width: 920px;
+}
+
+.date {
+	display: block;
+	border-bottom: 1px solid #f4f4f4;
+	font-size: 0.8em;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+.footer {
+	background: #ccc;
+	margin: 0 auto 1em auto;
+	padding: 1em;
+	text-align: center;
+	width: 900px;
+}
+
+.header {
+	background-color: #f7b600;
+	padding: 1em;
+}
+
+.item {
+	align-self: center;
+}
+
+.list {
+	display: flex;
+	justify-content: space-between;
+	list-style: none;
+}
+
+.nav {
+	display: flex;
+	justify-content: center;
+	padding: 1em;
+}
+
+.nav .anchor {
+	color: #fff;
+	padding: 0.6em 1em;
+}
+
+.nav .anchor:hover {
+	color: #f7b600;
+	background: #fff;
+	text-decoration: none;
+}
+
+.publication {
+	background: #fff;
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+.publication-title {
+	color: #f7b600;
+}
+
+.timeline {
+	width: 660px;
+}
+
+.white {
+	color: #fff;
+}

@@ -1,2 +1,1 @@
-# tecblog
-Terceiro projeto do curso de desenvolvimento web que eu estou fazendo na Udemy.
+![Imagem de demonstração do site de notícias TecBlog desenvolvido durante o curso Desenvolvimento Web Completo - 20 cursos + 20 projetos](imgs/demo.png)
